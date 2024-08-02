@@ -1,5 +1,5 @@
 # Oasis_Infobyte_Internship
-Projects completed as a part of Internship at Oasis Infobyte 
+**Projects completed as a part of Internship at Oasis Infobyte**
 
 # 1. Retail Store Sales Analysis Dashboard 2023: Enhancing Sales Performance through Data-Driven Insights
 **Executive Summary**
@@ -15,4 +15,6 @@ The Retail Store Sales Analysis Dashboard 2023 provides a comprehensive overview
 *[Clean & Modelled Data](https://github.com/anasuyakunnath/Oasis_Infobyte_Internship/blob/main/Retail_Data_Cleaned.xlsx)*
 
 *[Dashboard (Pbxi)](https://github.com/anasuyakunnath/Oasis_Infobyte_Internship/blob/main/Retail_Sales_Dashboard_Task%201.pbix)*
+
+*[Dashboard (PDF)](https://github.com/anasuyakunnath/Oasis_Infobyte_Internship/blob/main/Retail_Sales_Dashboard_Task%201.pdf)*
 
