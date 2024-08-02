@@ -12,6 +12,8 @@ The Retail Store Sales Analysis Dashboard 2023 provides a comprehensive overview
   3. Product Performance
   4. Strategic Decision Making
 
+![Screenshot (238)](https://github.com/user-attachments/assets/0050181a-5e87-46e8-b6c3-1c6473b0f15d)
+
 * Methodology
   1. Data Source from the Retail Store fields including Date, Gender, Age, Product Category, Quantity, Price/Unit, Total Amount and consolidated into Excel spreadsheet.
   2. Data Cleaning and Preparation in Excel by handling missing values and duplicate values and ensuring all columns are having accurate data and formats
